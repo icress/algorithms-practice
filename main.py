@@ -15,5 +15,4 @@ def binarySearch(arr, x, low, high, mid):
 
 middle = (len(sample_list)-1) // 2
 
-
-print(binarySearch(sample_list, 5, 0, len(sample_list)-1, middle))
+print(binarySearch(sample_list, 8, 0, len(sample_list)-1, middle))
